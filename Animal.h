@@ -1,9 +1,3 @@
-#ifndef ANIMAL_H
-#define ANIMAL_H
-
-#include <string>
-using namespace std;
-
 #include <iostream>
 #include <string>
 #ifndef ANIMAL_H
@@ -28,9 +22,4 @@ public:
   void display();
   void feed();
 };
-#endif
- 
-
-
-
 #endif
